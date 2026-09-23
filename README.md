@@ -119,3 +119,5 @@ The full run takes longer, and its results can differ from the saved demonstrati
 The dataset is sampled and split by class using seed `7331`. Model selection uses validation results; final comparison uses the same held-out test images for all four models. The saved JSON files include accuracy, precision, recall, F1, ROC-AUC, and confusion matrices.
 
 The four included checkpoints were trained with this project's code because the originally supplied Keras model archive could not be loaded. The notebooks were cleaned and rebuilt from the supplied lab material. A spatially independent test set would be needed before drawing conclusions about performance on new satellite scenes.
+
+Author : Rushikesh Patil Business Intellegence and Data Science Student ISM, Dortmund
